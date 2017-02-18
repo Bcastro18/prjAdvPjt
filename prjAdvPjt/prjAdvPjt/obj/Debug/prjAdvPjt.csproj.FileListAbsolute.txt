@@ -1,0 +1,13 @@
+c:\users\bruno\documents\visual studio 2015\Projects\prjAdvPjt\prjAdvPjt\bin\Debug\prjAdvPjt.exe.config
+c:\users\bruno\documents\visual studio 2015\Projects\prjAdvPjt\prjAdvPjt\bin\Debug\prjAdvPjt.exe
+c:\users\bruno\documents\visual studio 2015\Projects\prjAdvPjt\prjAdvPjt\bin\Debug\prjAdvPjt.pdb
+c:\users\bruno\documents\visual studio 2015\Projects\prjAdvPjt\prjAdvPjt\obj\Debug\prjAdvPjt.csprojResolveAssemblyReference.cache
+c:\users\bruno\documents\visual studio 2015\Projects\prjAdvPjt\prjAdvPjt\obj\Debug\prjAdvPjt.frmCliPro.resources
+c:\users\bruno\documents\visual studio 2015\Projects\prjAdvPjt\prjAdvPjt\obj\Debug\prjAdvPjt.frmHome.resources
+c:\users\bruno\documents\visual studio 2015\Projects\prjAdvPjt\prjAdvPjt\obj\Debug\prjAdvPjt.Properties.Resources.resources
+c:\users\bruno\documents\visual studio 2015\Projects\prjAdvPjt\prjAdvPjt\obj\Debug\prjAdvPjt.csproj.GenerateResource.Cache
+c:\users\bruno\documents\visual studio 2015\Projects\prjAdvPjt\prjAdvPjt\obj\Debug\prjAdvPjt.exe
+c:\users\bruno\documents\visual studio 2015\Projects\prjAdvPjt\prjAdvPjt\obj\Debug\prjAdvPjt.pdb
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\prjAdvPjt\prjAdvPjt\obj\Debug\prjAdvPjt.frmAlteraMoviment.resources
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\prjAdvPjt\prjAdvPjt\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\prjAdvPjt\prjAdvPjt\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
